@@ -1,7 +1,7 @@
 {
   "name": "senki",
   "version": "0.1.0",
-  "homepage": "https://senki.github.io",
+  "homepage": "https://senki.2084team.com",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.4.0",
